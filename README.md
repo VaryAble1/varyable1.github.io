@@ -1,7 +1,6 @@
 # Welcome
 
-This is a showcase of coding projects curated and displayed within a portfolio
-
+This is a profile featuring a coding portfolio and associated organizations
 
 ## Credits:
 
